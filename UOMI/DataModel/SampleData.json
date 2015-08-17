@@ -1,0 +1,89 @@
+{"Groups":[
+  {
+    "UniqueId": "Home Page",
+    "Title": "Loans",
+    "Subtitle": "Group subtitle: 2",
+    "ImagePath": "Assets/LightGray.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-2-Item-1",
+        "Name": "Akhil",
+        "ImagePath": "Assets/DarkGray.png",
+        "Amount" : "200"
+        },
+      {
+        "UniqueId": "Group-2-Item-2",
+        "Name": "Jaseem",
+        "ImagePath": "Assets/DarkGray.png",
+        "Amount" : "300"
+        },
+      {
+        "UniqueId": "Group-2-Item-2",
+        "Name": "Jaseem",
+        "ImagePath": "Assets/DarkGray.png",
+        "Amount" : "300"
+        }
+    ]
+  },
+  
+  {
+    "UniqueId": "Contacts",
+    "Title": "Contacts",
+    "Subtitle": "Group subtitle: 4",
+    "ImagePath": "Assets/MediumGray.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-4-Item-1",
+        "Name": "Jaseem Haggu",
+        "ImagePath": "Assets/MediumGray.png",
+       },
+      {
+        "UniqueId": "Group-4-Item-1",
+        "Name": "Jaseem Haggu",
+        "ImagePath": "Assets/MediumGray.png",
+       },
+      {
+        "UniqueId": "Group-4-Item-1",
+        "Name": "Jaseem Haggu",
+        "ImagePath": "Assets/MediumGray.png",
+       }
+    ]
+  }
+
+  {
+    "UniqueId": "Recent",
+    "Title": "Group Title: 1",
+    "Subtitle": "Group subtitle: 1",
+    "ImagePath": "Assets/LightGray.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-1-Item-1",
+        "Name": "Akhil",
+        "Amount": "20",
+        "ImagePath": "Assets/DarkGray.png",
+        "Timestamp":""
+        },
+        {
+        "UniqueId": "Group-1-Item-1",
+        "Name": "Lol",
+        "Amount": "20",
+        "ImagePath": "Assets/DarkGray.png",
+        "Timestamp":""
+        },
+        {
+        "UniqueId": "Group-1-Item-1",
+        "Name": "Lel",
+        "Amount": "20",
+        "ImagePath": "Assets/DarkGray.png",
+        "Timestamp":""
+        }
+    ]
+  },
+  ]
+}
